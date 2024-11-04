@@ -1,0 +1,31 @@
+08:57:20 From ULRICH Berger To Everyone : Morning everyone.
+09:19:46 From Paul Taylor To Everyone : Shouldn't you be "choosing" a point from an OVERT subspace rather than a CLOSED one?
+09:31:37 From Paul Taylor To Everyone : please give a reference for Joe Miller's thesis.
+09:33:56 From Pieter Collins To Everyone : Many problems have general algorithms, which are slow in worst-case, and fast algorithms for specific cases. So I don't think the algorithmic side can be neglected.
+09:36:43 From Arno Pauly To Everyone : Joseph S. Miller: "Pi01 classes in Computable Analysis and Topology", Cornell, 2002
+09:58:07 From Michał To Everyone : Thanks for very exciting presentation!
+Looking forward to read the full paper.
+10:00:38 From Paul Taylor To Everyone : Joe Miller's thesis: people.math.wisc.edu/~jmiller/#dissertation  "Available upon request"
+10:12:27 From Martin Ziegler To Everyone : Will you be able to acquire dual citizenship, Ulrich and Achim?
+10:14:17 From Norbert Müller To Achim Jung(Privately) : Can you please assign the co-host role to Vittorio?
+10:23:57 From Achim Jung To Martin Ziegler(Privately) : I have dual citizenship but since Brexit no further dual citizenships are available.
+10:41:37 From Anupam Das To Achim Jung(Privately) : Hi Achim, could you please make both of my devices co-hosts? Sorry for the complication.
+11:17:27 From Simpson, Alex To Everyone : My paper was in FoSSaCS 2017 “Cyclic Arithmetic is Equivalent to Peano Arithmetic”.
+11:20:21 From ULRICH Berger To Everyone : Thanks, Alex!
+11:49:32 From Martin Ziegler To Everyone : Thank you!
+12:54:17 From Suguman Bansal To Achim Jung(Privately) : Hello Achim, Suguman here. Could you give me access to share the slides?
+13:10:33 From Michał To Everyone : "Every execution should exceed the threshold" or "...should not exceed the cost threshold"?
+13:18:06 From Pieter Collins To Everyone : Are there sound brute force algorithms?
+13:18:18 From Pieter Collins To Everyone : Which are probably horribly inefficient...
+13:18:54 From Andre Platzer To Everyone : Could one reduce the quantitative spec part to pure logic in the interpreted case?
+13:20:05 From Andre Platzer To Everyone : Looking forward!
+13:54:31 From MONIKA Seisenberger To Everyone : Thank you for a very good talk!
+13:54:57 From ULRICH Berger To Everyone : Thanks! Excellent talk!
+13:55:44 From Andre Platzer To Everyone : Great talk!
+13:56:16 From Spreen, Dieter, Prof. Dr. To Achim Jung(Privately) : Ist der Vortrag von Suguman aufgezeichnet worden?
+13:59:16 From Spreen, Dieter, Prof. Dr. To Achim Jung(Privately) : Hideki suggested to have tomorrow’s tea time as a virtual birthday party! Nice idea I think!
+14:06:06 From Suguman Bansal To Everyone : Paper on Comparators: https://suguman.github.io/Papers/FoSSaCS18.pdf
+14:06:48 From Suguman Bansal To Everyone : Synthesis (Integer discount factors): https://suguman.github.io/Papers/TACAS21.pdf
+14:07:07 From Suguman Bansal To Everyone : Correction: Synthesis (integer discount factors): https://suguman.github.io/Papers/TACAS21.pdf
+14:09:45 From Michał To Everyone : Thanks a lot!
+14:19:01 From ULRICH Berger To Everyone : Tomorrow is fine for me :)

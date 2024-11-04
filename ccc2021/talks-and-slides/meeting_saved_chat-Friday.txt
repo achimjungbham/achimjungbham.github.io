@@ -1,0 +1,21 @@
+08:58:15 From ULRICH Berger To Everyone : Good morning!
+09:02:09 From ULRICH Berger To Everyone : Iosif, thank you very much!
+09:46:05 From Simpson, Alex To Everyone : Best tostop share screen, and start ahare screen again wit
+09:46:20 From Simpson, Alex To Everyone : Sorry
+09:47:07 From Simpson, Alex To Everyone : I was trying to say that the sound should ideally be shared by sharing screen with the “share sound” box ticked, rather than sharing sound via the mic. But never mind.
+10:00:58 From Achim Jung To Spreen, Dieter, Prof. Dr.(Privately) : Don't mute yourself or we can't hear the video.
+10:01:10 From Spreen, Dieter, Prof. Dr. To Achim Jung(Privately) : Ok
+10:14:09 From Simpson, Alex To Everyone : People not hearing the 10.25 announcement might show up at 10.30
+10:14:35 From Simpson, Alex To Everyone : Sorru please ignore.
+10:24:20 From Eike Neumann To Achim Jung(Privately) : Can you make me co-host, please?
+10:24:39 From Eike Neumann To Achim Jung(Privately) : thanks!
+10:28:06 From ULRICH Berger To Everyone : Matthew, thanks!
+10:57:43 From Pieter Collins To Everyone : The lower- and upper-powerspace (overt- and compact-subspace) functor is actually a monad in Haskell terminology. Valuations also yield a monad.
+11:31:15 From KAIST Lab Complexity and Real Computation To Everyone : Jihoon Hyung
+11:31:19 From KAIST Lab Complexity and Real Computation To Everyone : Hyun
+13:02:12 From Achim Jung To Pieter Collins(Privately) : Pieter, thank you for the thanks to the organisers! Sadly, Dieter can't be here now because of another appointment that he wasn't able to move.
+13:02:33 From Achim Jung To Pieter Collins(Privately) : Also, we could hardly hear you. Did you dial down your microphone?
+13:10:54 From Pieter Collins To Achim Jung(Privately) : My microphone keeps kurning itself down for some strange reason.
+13:30:34 From Paul Taylor To Everyone : make it bigger please
+14:04:58 From Paul Taylor To Everyone : CCC participants invited  at 2.15 to "Types are Internal oo-Groupoids" by Eric Finster, bham-ac-uk.zoom.us/j/83662748860?pwd=dTBRV1JCUEgxQXV1cXpjV3pDaGttUT09
+14:21:21 From KAIST Lab Complexity and Real Computation To Everyone : Thank you!

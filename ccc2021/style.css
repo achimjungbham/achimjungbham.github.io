@@ -1,0 +1,130 @@
+header h1::before{
+    display: none;
+}
+
+header{
+    padding-bottom: 5em;
+    margin-bottom: 0em;
+}
+
+#updates{
+    border-top: 2pt solid black;
+    border-bottom: 2pt solid black;
+    width: 50%;
+    max-width: 25em;
+    font-size: 10pt;
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    color: #555;
+    box-sizing: border-box;
+}
+
+#updates > h2{
+    padding-top:.5ex;
+    margin-bottom: 1ex;
+}
+
+#updates > h2{
+    padding-bottom: 1ex;
+}
+
+#updates > p:first-of-type{
+    margin-top: -1ex;
+}
+#updates > p{
+    font-style: italic;
+    font-size: 1.1em;
+    margin-top: 0;
+    margin-bottom: 1ex;
+    text-align: center;
+    hyphens: none;
+    -webkit-hyphens: none;
+    list-style-type: none;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#updates + p{
+    text-align: center;
+    margin-bottom: 3em;
+}
+
+#registration table {
+    border-spacing: 2em .3ex ;
+}
+
+
+#invited-speakers li a{
+    font-size: 10em;
+    font-weight: 300;
+    display:block;
+}
+
+#invited-speakers > ul{
+    list-style-type: none;
+    font-family: Gill Sans, Helvetica Neue, Helvetica, sans;
+    max-width: 40rem;
+    columns: 2;
+}
+
+#invited-speakers > ul li{
+    min-width: 30%;
+    box-sizing: border-box;
+    font-size: .9rem;
+    display: inline-block;
+}
+
+#invited-speakers > ul img{
+    max-width: 10em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3pt;
+}
+
+#programme-committee > p{
+    font-size: 10pt;
+}
+
+#organizing-committee{
+    font-size: .9em;
+}
+
+#organizing-committee > h2{
+    padding-top: 1em;
+    margin-bottom: 0;
+}
+
+#organizing-committee ul{
+    list-style-type: none;
+    columns: 1;
+}
+
+#organizing-committee > ul li{
+    min-width: 30%;
+    font-size: .9rem;
+}
+
+#programme-committee ul{
+    list-style-type: none;
+}
+
+@media screen  and (min-width:65em){
+    #programme-committee ul{
+        font-size: 11pt;
+        margin-left: 0;
+        padding-left: 0;
+        padding-right: 0;
+        max-width: 30rem;
+        columns: 2;
+    }
+    #invited-speakers > ul{
+        max-width: 30rem;
+    }
+    #organizing-committee ul{
+        margin-left: auto;
+    }
+}

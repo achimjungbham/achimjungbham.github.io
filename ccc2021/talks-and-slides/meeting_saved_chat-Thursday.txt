@@ -1,0 +1,37 @@
+08:57:51 From Martin Ziegler To Achim Jung(Privately) : How about a picture/snapshot of all participants at CCC?
+09:00:50 From Martin Ziegler To Achim Jung(Privately) : Remember to turn on recording.
+09:25:28 From Achim Jung To Everyone : Please stay for a few minutes after Sewon's talk and switch on your webcams. I'll take a couple of screenshots for our "conference photo". Thank you.
+09:36:00 From Pieter Collins To Everyone : ⊥ seems arise in two different circumstances: in comparisons, x<y yields ⊥ if x=y, which is a valid thing to try to do, but in arithmetic x/y yields ⊥ if y=0, which is a genuine error. In "choose", as a naive-ish user, I would expect the latter case to propagate an error, but it doesn't. Is this really the behaviour you want?
+09:55:02 From Martin Escardo To Everyone : For question time: very nice talk. Have you thought about higher-type functions, such as integration, linear operators on function spaces, etc.
+09:57:09 From ULRICH Berger To Everyone : Thanks for the very nice talk. How is choose implemented? Concurrently?
+09:58:00 From Martin Ziegler To Everyone : Regarding your real verification calculus,could you re-explain which rules are "old"and which ones you have newly added?
+09:59:35 From Petrus Potgieter To Everyone : I have to pop into another meeting on the hour but am leaving my camera on for the group photo.
+10:00:07 From ULRICH Berger To Everyone : Thanks.
+10:01:36 From Todd Waugh Ambridge To Achim Jung(Privately) : Sorry, my camera stopped working right before the photo :-)
+10:03:04 From Chuangjie Xu To Everyone : Sewon, can we go to some breakout room for some discussion?
+10:06:44 From Sewon Park To Everyone : Hi Chaungjie, sorry, I just returned. Breakout room 2?
+10:26:26 From Anupam Das To Everyone : A question: can you make formal precisely how JL 'relates to' MIT? can you say anything more than just that they are classically equivalent?
+10:34:14 From Paul Taylor To Achim Jung(Privately) : Achim, you're much louder than Peter.
+10:35:08 From Achim Jung To Paul Taylor(Privately) : Yes, he is very soft, Paul Potgieter, too. Could it be something with my setup?
+10:37:14 From ULRICH Berger To Everyone : we still see the old slide
+10:37:25 From Paul Taylor To Achim Jung(Privately) : Maybe you just neeed to urn down the volume on your mike.  As for mine, I cant find another one (though I thought I had one). In Sewon's talk, Zoom was making my CPU and fan go crazy, but it's ok with Peter,
+10:46:17 From ULRICH Berger To Everyone : Is this a way to demystify dynamical algebra and explain in mathematical terms what it really is?
+10:46:45 From ULRICH Berger To Everyone : Thanks Peter!
+10:49:35 From Peter Schuster To Everyone : Yes (with some reservation) to Ulrich's question. That's what we're aiming at, in addition of course to extracting the computational content.
+10:50:46 From Peter Schuster To Everyone : To Anupam's question: I haven't really thought about this, but this definitely is an issue.
+10:54:21 From Steve Vickers To Everyone : Re Peter's talk: Relation to Hofmann-Mislove Thm? (Bijection between Scott open filters Sof's and compact saturated sets of global points, proved using choice to show every Sof contained in a completely prime filter.) But also there's a constructive version, between Sof's and compact saturated sublocales.
+10:55:15 From Daniel Wessel To Everyone : To Anupam's question:
+
+Reading membership in the Jacobson radical in terms of consequence, JL asserts completeness w.r.t. maximal ideals. The Jacobson radical inherits computational properties corresponding to the defining characteristics of maximal ideals. This allows to fold up branchings along case distinctions.
+10:56:35 From Peter Schuster To Everyone : To Steve: thanks for the useful hint
+11:14:59 From Anupam Das To Everyone : maybe over a weak base theory?
+11:25:50 From Anupam Das To Everyone : NB: 'Bounded Arithmetic' is due to Buss (his thesis in '85). Previous systems such as I\Delta_0 were studied by Paris, Wilkie in the '70s and even Parikh in the '60s.
+12:10:20 From Michał To Everyone : To repeat the answers:
+
+Anupam: System T permits functions that are not bounded.
+I am so far unaware  complexity class of total bounded functions expressible in system T or Turing machine.
+I would love to see the references.
+
+Dieter: We only use bounded iterated polynomials here. Unbounded iterated polynomials are known to be undecidable. To my knowledge the complexity of bounded iterated polynomials is unknown.
+12:11:08 From Michał To Everyone : I would love to continue the discussion after the lunch break, by vidcall https://calendly.com/mjgajda/45min, or email: mjgajda@migamake.com.
+12:54:44 From Andre Platzer To Achim Jung(Privately) : could you make both of my devices cohosts again?

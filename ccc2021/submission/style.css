@@ -1,0 +1,12 @@
+
+#deadlines > ul{
+    margin-bottom: .3ex;
+    text-align: center;
+    list-style-type: none;
+    padding-left: 0;
+    
+}
+#deadlines > p {
+    text-align: center;
+    font-size: 95%;
+}

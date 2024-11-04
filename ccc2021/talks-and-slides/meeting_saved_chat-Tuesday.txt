@@ -1,0 +1,31 @@
+09:40:36 From Pieter Collins To Everyone : How easy is Minlog to learn and use (both for proofs and programme extraction) compared with e.g. Coq?
+09:46:26 From Pieter Collins To Everyone : How fast are your extracted programs compared with hand-coded implementations of the same algorithm in the same target language?
+09:47:58 From Pieter Collins To Everyone : Ah, you've just answered my question! :)
+10:09:58 From MONIKA Seisenberger To Everyone : @Pieter: should have added that for being efficient it is important to extract to a language like Haskell and not run it in Minlog.
+10:15:57 From MONIKA Seisenberger To Everyone : And sorry for the quirks at the beginning, I lost connection, had to research for the link again, etc.
+10:49:20 From Paul Taylor To Everyone : As I commented, your situation seems to be similar to that in my paper "A lambda calculus for real analysis"   www.paultaylor.eu/ASD?lamcra
+10:49:44 From Martin Escardo To Achim Jung(Privately) : Sorry - I have to leave for a while. Will be back after lunch.
+11:54:02 From Michał To Everyone : @matthias Very interesting presentation. Is it possible to receive the paper with references?
+12:01:37 From Matthias To Everyone : @Michael: there is no single paper. I submitted two papers and work on a third one. One concerns first-order logic, one the model for higher-order logic. The Interpretation for higher-order logic is not finished yet.
+12:02:22 From Matthias To Everyone : You can contact me and I can send you more.
+12:10:48 From Paul Taylor To Everyone : If you stick to the ASD language, in particular with only < on reals, etc., you are guaranteed to have open sets, even though you're thinking in terms of logic.
+13:12:07 From Paul Taylor To Everyone : Please would you be clear where you're using excluded middle or not.
+13:12:31 From Nicolai Kraus To Everyone : It is not used anywhere so far.
+13:13:50 From MONIKA Seisenberger To Everyone : Sorry I was away for a moment, what is Cnf?
+13:14:07 From Nicolai Kraus To Everyone : Cnf = Cantor Normal Form
+13:14:19 From MONIKA Seisenberger To Everyone : Ah, clear!
+13:26:33 From Paul Taylor To Everyone : Thanks for interesting stuff that looks more like what proof theorists needs
+13:26:48 From Paul Taylor To Everyone : I have returned to my work on well founded coalgebras.
+13:27:10 From Paul Taylor To Everyone : In the constructive set theory
+13:27:44 From Paul Taylor To Everyone : eset theoreitc ordinals, the "plump" ones gro VERY fast but the "thin" ones are poorlu behaved.
+13:27:57 From Paul Taylor To Everyone : I would like to try to fit your work into my new framework.
+13:28:30 From ULRICH Berger To Everyone : Thanks, Chuangjie! Very interesting. Can you give a reference to a paper about this?
+13:28:33 From Paul Taylor To Everyone : www.paultaylor.eu/ordinals   there's a newly rewritten version recently
+13:28:51 From Nicolai Kraus To Everyone : https://drops.dagstuhl.de/opus/volltexte/2021/14510/
+13:29:06 From Paul Taylor To Everyone : please copy reerence from slides to chat so that we can copy and paste it
+13:29:13 From ULRICH Berger To Everyone : Thanks!
+13:29:19 From Nicolai Kraus To Everyone : and the other paper is: https://arxiv.org/abs/1904.10759
+13:31:08 From Paul Taylor To Everyone : sorry my mike keeps reducing the volume, dont knwo why
+13:32:22 From Fredrik Nordvall Forsberg To Everyone : Monika: also for the commutative Hessenberg arithmetic operations on Cantor Normal Forms, we use higher inductive types from Cubical Agda to represent CNFs "up to permutation"
+14:16:15 From Paul Taylor To Everyone : please can we use the breakout rooms.  I'd like to have a discussion with  Chuangjie and others about ordinals.
+14:44:09 From Daniel Graça To Everyone : I have to leave. See you tomorrow!

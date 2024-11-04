@@ -1,0 +1,280 @@
+html{
+    font-family: Gill Sans, Helvetica Neue, Helvetica, sans;
+    font-size: 13pt;
+    font-weight: 300;
+}
+
+header{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 4em;
+    font-size: 130%;
+    background-color: rgba(0,0,0,0);
+    background-image: url('skyline.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding-bottom: 1em;
+    margin-bottom: 2em;
+}
+
+header h1::before{
+    display: block;
+    font-size: .5em;
+    content: "Continuity, Computability, Constructivity 2021";
+    margin-bottom: 1ex;
+}
+header h1{
+    font-size: 2rem;
+    padding-top: 1em;
+}
+header h3{
+    font-size: 1.1rem;
+    padding-top: 0em;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+    padding-top: 1.6666em;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-weight: 300;
+}
+
+
+body h2{
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+
+a{
+    color: inherit;
+}
+nav a{
+    margin-left: 1ex;
+    margin-right: 1ex;
+}
+
+body > footer{
+    margin-top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60rem;
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+    background-clip: padding-box;
+    background-color: #DDD;
+    text-align: center; 
+}
+
+
+footer img{
+    height: 4rem;
+    max-width: 100%;
+    padding: 4pt;
+}
+
+
+img#EACSLLogo{
+    border-radius: 7pt;
+}
+
+section > p {
+    max-width: 30rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+section > blockquote {
+    max-width: 30rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    box-sizing: border-box;
+}
+section > ul {
+    max-width: 30rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    list-style-position: inside;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) and (min-width:400pt){
+    section > p, article > p{
+        -webkit-hyphens: auto;
+        text-align: justify;
+    }
+}
+
+ul, ol{
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
+body{
+    margin: 0pt;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    min-height: 100vh;
+    width: 100%;
+    padding: 0pt;
+    background-color: #FFFFFF;
+}
+
+section > *{
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+
+
+
+nav{
+    font-variant: small-caps;
+    position: fixed;
+    background: rgba(50,50,50,.95);
+    color: #DDD;
+    top: 0;
+    z-index: 100;
+    max-width: none;
+    width: 100vw;
+
+}
+nav > main{
+    max-width: 40em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: .3ex;
+    padding-bottom: .7ex;
+    margin-top: 1ex;
+    font-size: 1em;
+    white-space: nowrap;
+    overflow-x: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 0;
+}
+nav > main > h1{
+    font-size: 1.1rem;
+    padding-top: .2em;
+    margin-bottom: .05em;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav > main > ul{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.tocbutton{
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    width: .7em;
+    text-align: center;
+}
+
+#closeb{
+    display: none;
+}
+
+#openb{
+    display: inline-block;
+}
+
+#nav:target > main > h1 > #closeb{
+    display: inline-block;
+}
+
+#nav:target > main > h1 > #openb{
+    display: none;
+}
+
+#nav:target > main > ul{
+    display: block;
+}
+
+nav > main > ul{
+    margin-top: .3em;
+    border-top: 1pt solid;
+    list-style-type: none;
+    padding:0;
+    padding-top: .3ex;
+    min-width: 75%;
+    max-height: 50vh;
+    overflow-y: auto;
+}
+nav > main > ul > li{
+    padding: 3pt;
+}
+
+section.level1{
+    max-width: 50rem;
+    min-height: 3em;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: .1em;
+}
+@media screen and (min-width:70em){
+section.level1{
+    padding-top: 3em;
+}
+section.level1 p, section.level1 ul{
+    margin-top: 0;
+}
+section.level1 h1{
+    float: left;
+    font-family: Helvetica;
+    font-size: 1.2rem;
+    padding-right: .5ex;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: left;
+    max-width: 10rem;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+}
+
+section h2, section h3{
+    max-width: 30rem;
+}
+
+
+#closeb, #openb,
+#nav:target > main > h1 > #closeb,
+#nav:target > main > h1 > #openb{
+    display: none;
+}
+
+#nav > main, #nav:target > main{
+    max-width: none;
+    padding-top: 1ex;
+    padding-bottom: 1ex;
+}
+
+#nav main h1, #nav:target main h{
+    display: inline;
+}
+
+#nav > main > ul, #nav:target > main > ul{
+    display: inline;
+    border-top: none;
+}
+
+#nav > main li{
+    display: inline;
+}
+
+}

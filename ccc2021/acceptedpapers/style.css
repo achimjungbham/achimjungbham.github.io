@@ -1,0 +1,17 @@
+
+
+p.paper{
+    margin-bottom: 3em;
+}
+
+
+p.paper .authors{
+    font-style: italic;
+    color: #944;
+}
+
+p.paper .title{
+    display: block;
+    font-size: 1.4em;
+    text-align: left;
+}

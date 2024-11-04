@@ -1,0 +1,29 @@
+09:55:20 From Paul Taylor To Everyone : you are using strict and reflexive inequalities apparently indescrimately, which means that you are also solving equations
+09:55:44 From Paul Taylor To Everyone : that means that you will need apprximants that are not solutions,
+09:56:02 From Paul Taylor To Everyone : which brings in your deltas,
+09:56:36 From Paul Taylor To Everyone : what I'm getting at is that it looks a bit like locatedness or overtness
+09:56:58 From Paul Taylor To Everyone : sorry can't type fast enough
+09:57:17 From Paul Taylor To Everyone : why isn't Andrej here?
+09:59:06 From Paul Taylor To Everyone : Andrej had a prototype calculator for Dedekind reals (in ASD language) which hadsome similar techniques.
+09:59:48 From Paul Taylor To Everyone : the aim is presumably to find  ONE solution (at a time)
+10:01:53 From Eike Neumann To Everyone : You have no guarantee on how close a "delta"-solution is to a real solution -- you can get a sequence that accumulates at a solution but no convergence and no way of obtaining a solution with any guarantees
+10:04:55 From Franz Brauße To Everyone : That is correct, but there are also ways to encode delta into the rules itself, at which point we could just "not accept" a "2^-n-sat" state, but require "2^(-n-1)-sat" or better result
+10:06:25 From Franz Brauße To Everyone : The original ksmt without delta gives exact results, but might not terminate
+10:09:52 From Simpson, Alex To Achim Jung(Privately) : Please make Davide Trotta co-host. Thanks
+10:15:02 From Achim Jung To Simpson, Alex(Privately) : OK, all the speakers for the next part are co-hosts.
+10:43:16 From Paul Taylor To Everyone : pity you had to cut  your talk short, because the explanation seemed to be very clear as far as it went.
+10:48:21 From Achim Jung To ppradic(Privately) : Sorry I had to mute you because there was an audio feedback and we couldn't hear Takayuki.
+10:49:10 From ppradic To Achim Jung(Privately) : no worries (usually I don't get audio feedback, thanks for the heads up! I'll put on headphones next time :))
+11:49:13 From Paul Taylor To Everyone : joyal'sconstruction was interesting in that it was easier for categories than lattices.
+12:49:25 From Andre Platzer To Achim Jung(Privately) : Could you give screen sharing permission to both of my logins?
+13:20:34 From Pieter Collins To Everyone : In dL, you allow inequality constraints and negation, so can define sets which are neither closed not open. Does this cause problems?
+13:37:27 From MONIKA Seisenberger To Everyone : For modelling the movement do you need to solve the differential equations? It would be easy for constant acceleration, or for a = constant * v, but hard in other cases…
+13:55:45 From Martin Ziegler To Everyone : Oh dear...
+14:30:28 From Chuangjie Xu To Everyone : sorry, I have to leave now for another meeting
+14:31:44 From Paul Taylor To Everyone : what in general is the position with EU projects for people who have been stripped of their European citizenship?
+14:33:00 From Martin Ziegler To Everyone : Regarding quarantine exemption when visiting Korea, Pieter is correct:https://ecck.or.kr/quarantine-exemption-for-the-foreign-residents-vaccinated-overseas/
+14:36:28 From Pieter Collins To Everyone : It seems that fully-vaccinated academic visitors to Korea are eligible for quarantine exemption.
+14:39:14 From Paul Taylor To Everyone : I think it's better to have lectures in lecture rooms.   Maybe we could have a social event in that room.
+14:41:28 From Michał To Everyone : I agree with Achim.
+I would love to be present in person, but hybrid participation is a must.
+14:52:56 From Pieter Collins To Everyone : For me, the only possible time for a secondment is February/March

@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+NAME:CSL 2018
+X-WR-CALNAME:CSL 2018
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:talks1@csl18.eacsl.org
+SUMMARY:Catuscia Palamidessi. Fixed Points in Information Flow and in Privacy
+DTSTART:20180904T080000Z
+DTEND:20180904T090000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk21@csl18.eacsl.org
+SUMMARY:Erich Grädel and Matthias Hoelzel. Dependency Concepts up to Equivalence
+DTSTART:20180904T093000Z
+DTEND:20180904T100000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk52@csl18.eacsl.org
+SUMMARY:Aurore Alcolei, Pierre Clairambault, Martin Hyland and Glynn Winskel. The True Concurrency of Herbrand's Theorem
+DTSTART:20180904T100000Z
+DTEND:20180904T103000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk26@csl18.eacsl.org
+SUMMARY:Nathanaël Fijalkow, Bastien Maubert, Aniello Murano and Sasha Rubin. Quantifying Bounds in Strategy Logic
+DTSTART:20180904T103000Z
+DTEND:20180904T110000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk5@csl18.eacsl.org
+SUMMARY:Martin Lück. Canonical Models and the Complexity of Modal Team Logic
+DTSTART:20180904T110000Z
+DTEND:20180904T113000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk90@csl18.eacsl.org
+SUMMARY:Rémi Nollet, Alexis Saurin and Christine Tasson. Local validity for circular proofs in linear logic with fixed points
+DTSTART:20180904T130000Z
+DTEND:20180904T133000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk57@csl18.eacsl.org
+SUMMARY:Dan Marsden and Maaike Zwart. Quantitative Foundations for Resource Theories
+DTSTART:20180904T133000Z
+DTEND:20180904T140000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk55@csl18.eacsl.org
+SUMMARY:Jules Chouquet and Lionel Vaux Auclair. An application of parallel cut elimination in unit-free multiplicative linear logic to the Taylor expansion of proof nets
+DTSTART:20180904T140000Z
+DTEND:20180904T143000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk29@csl18.eacsl.org
+SUMMARY:Patrick Baillot and Alexis Ghyselen. Combining Linear Logic and Size Types for Implicit Complexity
+DTSTART:20180904T143000Z
+DTEND:20180904T150000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk99@csl18.eacsl.org
+SUMMARY:Paul Downen and Zena Ariola. Beyond Polarity: Towards A Multi-Discipline Intermediate Language with Sharing
+DTSTART:20180904T153000Z
+DTEND:20180904T160000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk77@csl18.eacsl.org
+SUMMARY:Guy McCusker and Alessio Santamaria. On compositionality of dinatural transformations
+DTSTART:20180904T160000Z
+DTEND:20180904T163000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk64@csl18.eacsl.org
+SUMMARY:Nicolas Behr and Pawel Sobocinski. Rule Algebras for Adhesive Categories
+DTSTART:20180904T163000Z
+DTEND:20180904T170000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk27@csl18.eacsl.org
+SUMMARY:Filippo Bonchi, Jens Seeber and Pawel Sobocinski. Graphical Conjunctive Queries
+DTSTART:20180904T170000Z
+DTEND:20180904T173000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks2@csl18.eacsl.org
+SUMMARY:Emmanuel Filiot. Specification and Computation of Word Transductions
+DTSTART:20180905T080000Z
+DTEND:20180905T090000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk87@csl18.eacsl.org
+SUMMARY:Andreas Krebs, Kamal Lodaya, Paritosh Pandya and Howard Straubing. An algebraic decision procedure for two-variable logic with a between relation
+DTSTART:20180905T093000Z
+DTEND:20180905T100000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk74@csl18.eacsl.org
+SUMMARY:Flavio Ferrarotti, Jan Van den Bussche and Jonni Virtema. Expressivity within second-order transitive-closure logic
+DTSTART:20180905T100000Z
+DTEND:20180905T103000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk67@csl18.eacsl.org
+SUMMARY:Liron Cohen and Reuben Rowe. Uniform Inductive Reasoning in Transitive Closure Logic via Infinite Descent
+DTSTART:20180905T103000Z
+DTEND:20180905T110000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk94@csl18.eacsl.org
+SUMMARY:Kazushige Terui. MacNeille completion and Buchholz' Omega rule for parameter-free second order logics
+DTSTART:20180905T110000Z
+DTEND:20180905T113000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks3@csl18.eacsl.org
+SUMMARY:Christine Tasson. A linear logic approach to the semantics of probabilistic programs
+DTSTART:20180906T080000Z
+DTEND:20180906T090000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk70@csl18.eacsl.org
+SUMMARY:Albert Atserias and Anuj Dawar. Definable Inapproximability: New Challenges for Duplicator
+DTSTART:20180906T093000Z
+DTEND:20180906T100000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk98@csl18.eacsl.org
+SUMMARY:P. Madhusudan, Umang Mathur, Shambwaditya Saha and Mahesh Viswanathan. A Decidable Fragment of Second Order Logic With Applications to Synthesis
+DTSTART:20180906T100000Z
+DTEND:20180906T103000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk71@csl18.eacsl.org
+SUMMARY:Sven Schewe, Alexander Weinert and Martin Zimmermann. Parity Games with Weights
+DTSTART:20180906T103000Z
+DTEND:20180906T110000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk68@csl18.eacsl.org
+SUMMARY:Daniel Neider, Alexander Weinert and Martin Zimmermann. Synthesizing Optimally Resilient Controllers
+DTSTART:20180906T110000Z
+DTEND:20180906T113000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks5@csl18.eacsl.org
+SUMMARY:Bob Coecke. From Quantum to Cognition via Pictures
+DTSTART:20180906T130000Z
+DTEND:20180906T140000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk18@csl18.eacsl.org
+SUMMARY:Manuel Bodirsky, Marcello Mamino and Caterina Viola. Submodular Functions and Valued Constraint Satisfaction Problems over Infinite Domains
+DTSTART:20180906T140000Z
+DTEND:20180906T143000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk48@csl18.eacsl.org
+SUMMARY:Rohit Chadha, A. Prasad Sistla and Mahesh Viswanathan. Approximating Probabilistic Automata
+DTSTART:20180906T143000Z
+DTEND:20180906T150000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk93@csl18.eacsl.org
+SUMMARY:Anupam Das and Isabel Oitavem. A recursion-theoretic characterisation of the positive polynomial-time functions
+DTSTART:20180906T153000Z
+DTEND:20180906T160000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk83@csl18.eacsl.org
+SUMMARY:Carlo Angiuli, Kuen-Bang Hou Favonia and Robert Harper. Cartesian Cubical Computational Type Theory: Constructive Reasoning with Paths and Equalities
+DTSTART:20180906T160000Z
+DTEND:20180906T163000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk59@csl18.eacsl.org
+SUMMARY:Anupam Das and Damien Pous. Non-wellfounded proof theory for (Kleene+action)(algebras+lattices)
+DTSTART:20180906T163000Z
+DTEND:20180906T170000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk17@csl18.eacsl.org
+SUMMARY:Arnon Avron, Shahar Lev and Nissan Levi. Safety, Absoluteness, and Computability
+DTSTART:20180906T170000Z
+DTEND:20180906T173000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks4@csl18.eacsl.org
+SUMMARY:Szymon Toruńczyk. Some applications of Model Theory in Computer Science
+DTSTART:20180907T080000Z
+DTEND:20180907T090000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk81@csl18.eacsl.org
+SUMMARY:W. John Gowers and James Laird. A Fully Abstract Game Semantics for Countable Nondeterminism
+DTSTART:20180907T093000Z
+DTEND:20180907T100000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk73@csl18.eacsl.org
+SUMMARY:Benedikt Ahrens, André Hirschowitz, Ambroise Lafont and Marco Maggesi. High-level arities and initial semantics
+DTSTART:20180907T100000Z
+DTEND:20180907T103000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk60@csl18.eacsl.org
+SUMMARY:Samson Abramsky and Nihil Shah. Relating Structure and Power: Comonadic Semantics for Computational Resources
+DTSTART:20180907T103000Z
+DTEND:20180907T110000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk30@csl18.eacsl.org
+SUMMARY:Pierre Clairambault and Hugo Paquet. Fully abstract models of the probabilistic lambda-calculus
+DTSTART:20180907T110000Z
+DTEND:20180907T113000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks16@csl18.eacsl.org
+SUMMARY:Amina Doumane. Ackermann Award Lecture
+DTSTART:20180907T130000Z
+DTEND:20180907T140000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk33@csl18.eacsl.org
+SUMMARY:Faried Abu Zaid, Dietrich Kuske and Peter Lindner. Climbing up the elementary complexity classes with theories of automatic structures
+DTSTART:20180907T140000Z
+DTEND:20180907T143000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk56@csl18.eacsl.org
+SUMMARY:Anuj Dawar and Gregory Wilsenach. Symmetric Circuits for Rank Logic
+DTSTART:20180907T143000Z
+DTEND:20180907T150000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk63@csl18.eacsl.org
+SUMMARY:Nicolas Basset, Ismaël Jecker, Arno Pauly, Jean-Francois Raskin and Marie Van den Bogaard. Beyond admissibility: Dominance between chains of strategies
+DTSTART:20180907T153000Z
+DTEND:20180907T160000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk47@csl18.eacsl.org
+SUMMARY:Tor Kawata. A Contextual Reconstruction of Monadic Reflection
+DTSTART:20180907T160000Z
+DTEND:20180907T163000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk43@csl18.eacsl.org
+SUMMARY:Aliaume Lopez and Alex Simpson. Basic operational preorders for algebraic effects in general, and for combined probability and nondeterminism in particular
+DTSTART:20180907T163000Z
+DTEND:20180907T170000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talk19@csl18.eacsl.org
+SUMMARY:Béatrice Bérard, Patricia Bouyer and Vincent Jugé. Finite bisimulations for dynamical systems with overlapping trajectories
+DTSTART:20180907T170000Z
+DTEND:20180907T173000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks6@csl18.eacsl.org
+SUMMARY:Samson Abramsky. Whither Semantics?
+DTSTART:20180908T090000Z
+DTEND:20180908T094000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks7@csl18.eacsl.org
+SUMMARY:Thorsten Altenkirch. The Partiality Monad
+DTSTART:20180908T094000Z
+DTEND:20180908T102000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks8@csl18.eacsl.org
+SUMMARY:Mai Gehrke. Sheaves over domains
+DTSTART:20180908T102000Z
+DTEND:20180908T110000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks9@csl18.eacsl.org
+SUMMARY:Michael Huth. Achim Jung: a way above scholar on "way below"
+DTSTART:20180908T123000Z
+DTEND:20180908T131000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks10@csl18.eacsl.org
+SUMMARY:Weng Kin Ho. A Domain-Theoretic Silk Road
+DTSTART:20180908T131000Z
+DTEND:20180908T135000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks11@csl18.eacsl.org
+SUMMARY:Jimmie Lawson. Looking for beauty in domain theory
+DTSTART:20180908T135000Z
+DTEND:20180908T143000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks12@csl18.eacsl.org
+SUMMARY:Michael Mislove. Domains and Random Variables
+DTSTART:20180908T150000Z
+DTEND:20180908T154000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks13@csl18.eacsl.org
+SUMMARY:Frank Pfenning. Adjoint Logic
+DTSTART:20180908T154000Z
+DTEND:20180908T162000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+UID:talks14@csl18.eacsl.org
+SUMMARY:Alex Simpson. Functionals on probability valuations
+DTSTART:20180908T162000Z
+DTEND:20180908T170000Z
+DTSTAMP:20180829T134951Z
+SEQUENCE:8
+END:VEVENT
+END:VCALENDAR

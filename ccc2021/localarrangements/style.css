@@ -1,0 +1,29 @@
+
+
+figure{
+    max-width: 60rem;
+    line-height: .8;
+}
+
+figure img{
+    width: 100%;
+}
+
+figure figcaption{
+    color: #DDD;
+    background-color: #444;
+    font-size: .8em;
+    padding-left: 1ex;
+    padding-right: 1ex;
+    padding-bottom: .5ex;
+    padding-top: .5ex;
+    /*border-radius: 0 0 1ex 1ex;
+    */
+}
+
+#points-of-interest strong{
+    font-weight: inherit;
+    color: #933;
+}
+
+
