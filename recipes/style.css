@@ -1,6 +1,7 @@
 body {background-color: #3E2723; color: #fff}
-div.recipe, div.index { font-family: Times, serif; font-size: 10pt; margin: auto; max-width: 760px; background-color: #FFF8E1; padding: 1em; margin-top: 1em; color: rgba(0,0,0,0.7)}
+div.recipe, div.index { font-family: Times, serif; font-size: 16pt; margin: auto; max-width: 760px; background-color: #FFF8E1; padding: 1em; margin-top: 1em; color: rgba(0,0,0,0.7)}
 
+div.index img {border-radius: 10%; width: 20px; height: 20px; vertical-align: middle;}
 div.recipe img {border-radius: 10%; height: 200px; float: right;}
 div.recipe img:hover {border: 1px solid black;}
 foo {height: initial; position: absolute; top: 10px; left: 10px}
