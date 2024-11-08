@@ -1,7 +1,8 @@
 body {background-color: #3E2723; color: #fff}
 div.recipe, div.index { font-family: Times, serif; font-size: 16pt; margin: auto; max-width: 760px; background-color: #FFF8E1; padding: 1em; margin-top: 1em; color: rgba(0,0,0,0.7)}
 
-div.index img {border-radius: 10%; width: 20px; height: 20px; vertical-align: middle;}
+div.index img {border-radius: 10%; width: 1.3em; height: 1.3em; vertical-align: middle;}
+div.recipe p {margin-top: 0; margin-bottom: 0.2em;}
 div.recipe img {border-radius: 10%; height: 200px; float: right;}
 div.recipe img:hover {border: 1px solid black;}
 foo {height: initial; position: absolute; top: 10px; left: 10px}
@@ -13,7 +14,7 @@ h3 {font-family: Calibri, Sans-Serif; font-size: 120%; font-weight: bold; color:
 div.header p {margin-top: 0; margin-bottom: 0.2em}
 div.ing { padding: 1em; background-color: #FFE57F}
 ul.ing { margin-top: 0px; padding-left: 0px; color: rgba(0,0,0,1); font-size: 100%;}
-li.ing { list-style: none; border-top: 0.3em }
+li.ing {list-style: none; border-top: 0.3em }
 div.header p.title { font-family: Calibri, Sans-Serif; font-size: 35pt; font-weight: bold; color: #3E2723; border-bottom: 8px solid #ff6f00; min-height: 200px; vertical-align: bottom; margin-bottom: 20px; position: relative; padding-top: 30px}
 div.header p.title span.label {display: none}
 div.recipe div {margin-bottom: 20px;}
