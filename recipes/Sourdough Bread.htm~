@@ -8,8 +8,6 @@
   <body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'>
     <p class="title"><span class="label">Title:</span> <span itemprop="name">Ratatouille</span></p>
     <p class="yields"><span class="label">Serves:</span> <span itemprop="recipeYield">4</span></p>
-    <p class="preptime"><span class="label">Preparation time:</span> <span itemprop="prepTime">20 minutes</span></p>
-    <p class="cooktime"><span class="label">Cooking time:</span> <span itemprop="cookTime">1/2 hours</span></p>
     <p class="category"><span class="label">Category:</span> <span itemprop="recipeCategory">Main</span></p>
     <p class="cuisine"><span class="label">Cuisine:</span> <span itemprop="recipeCuisine">French; vegetarian</span></p>
     <p class='source'><span class='label'>Source:</span> Kochvergnuegen p. 185</p>
