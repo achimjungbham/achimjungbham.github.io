@@ -1,0 +1,12 @@
+#!/bin/csh -f
+
+set BF = `tput bold`
+set RM = `tput sgr0`
+
+echo $BF'Updating webpages using git'$RM
+
+git add *
+git commit --allow-empty-message
+git push -u origin main
+
+# end of script
