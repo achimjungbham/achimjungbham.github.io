@@ -5,15 +5,21 @@ set RM = `tput sgr0`
 
 echo $BF'Updating webpages using git'$RM
 
+# ADD
 # using the file "finish" as the marker for when this was done last time
 find . -newer finish -exec git add \{} \;
+
+# COMMIT
 # prepare the git commit message
 touch /tmp/message
-find . -newer finish -exec ls \{} >> /tmp/message \;
-git commit -F /tmp/message
+# which will consist just of all the file names that have been changed
+find . -newer finish -type f -print >> /tmp/message \;
+git commit --allow-empty-message -F /tmp/message
 
+# PUSH
 git push -u origin main
 
+# Cleanup
 rm /tmp/message
 touch finish
 
