@@ -13,7 +13,7 @@ find . -newer finish -exec git add \{} \;
 # prepare the git commit message
 touch /tmp/message
 # which will consist just of all the file names that have been changed
-find . -newer finish -type f -print >> /tmp/message \;
+find . -newer finish -type f -print >> /tmp/message
 git commit --allow-empty-message -F /tmp/message
 
 # PUSH
