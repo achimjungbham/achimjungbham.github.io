@@ -7,13 +7,13 @@ echo $BF'Updating webpages using git'$RM
 
 # ADD
 # using the file "finish" as the marker for when this was done last time
-find . -newer finish -exec git add \{} \;
+find . \( -name ".git" -prune -o -newer finish \) \( ! -name ".git" \) -exec git add \{} \;
 
 # COMMIT
 # prepare the git commit message
 touch /tmp/message
 # which will consist just of all the file names that have been changed
-find . -newer finish -type f -print >> /tmp/message
+find . \( -name ".git" -prune -o -newer finish \) \( ! -name ".git" \) -type f -print >> /tmp/message
 git commit --allow-empty-message -F /tmp/message
 
 # PUSH
